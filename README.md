@@ -28,3 +28,6 @@ The template uses dynamic imports to include the code to run the debug panel. To
 ```shell
 $ yarn build
 ```
+
+## Acknowledgments
+This project includes modifications of code originally created by Francesco Michelini, under the MIT License.
